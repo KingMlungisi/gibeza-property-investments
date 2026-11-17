@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Gibeza">
+  <rect width="32" height="32" rx="7" fill="#141414"/>
+  <path fill="#f4f1ec" d="M4.5 23.2V15.4h3.8v7.8H4.5zm5.1 0V10.6h4.8v12.6H9.6zm6.1 0V13.2h5v10H15.7zm6.3 0v-6.2h5.2v6.2h-5.2z"/>
+  <rect x="4.5" y="24.4" width="23" height="2.1" fill="#e4570e"/>
+</svg>
