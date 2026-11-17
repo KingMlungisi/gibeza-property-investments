@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320">
+  <rect width="420" height="320" fill="#f7f7f7"/>
+  <line x1="66.3" y1="36" x2="353.8" y2="36" stroke="#2f6fbe" stroke-width="1.2"/>
+  <line x1="66.3" y1="31.0" x2="66.3" y2="41.0" stroke="#2f6fbe" stroke-width="1.2"/>
+  <line x1="353.8" y1="31.0" x2="353.8" y2="41.0" stroke="#2f6fbe" stroke-width="1.2"/>
+  <text x="210.0" y="30.0" text-anchor="middle" fill="#2f6fbe" font-family="Arial, sans-serif" font-size="14">1500</text>
+  <line x1="44.25" y1="54.0" x2="44.25" y2="284.0" stroke="#2f6fbe" stroke-width="1.2"/>
+  <text x="38.3" y="169.0" text-anchor="middle" dominant-baseline="middle" fill="#2f6fbe" font-family="Arial, sans-serif" font-size="14" transform="rotate(-90 38.3 169.0)">1200</text>
+  <rect x="66.3" y="54.0" width="287.5" height="230.0" fill="#8c6239"/>
+  <line x1="66.3" y1="54.0" x2="79.3" y2="67.0" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="353.8" y1="54.0" x2="340.8" y2="67.0" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="66.3" y1="284.0" x2="79.3" y2="271.0" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="353.8" y1="284.0" x2="340.8" y2="271.0" stroke="#6d4b2a" stroke-width="1"/>
+  <rect x="79.3" y="67.0" width="130.8" height="204.0" fill="#d4ebf8" stroke="#8c6239" stroke-width="9.4"/>
+  <text x="144.6" y="169.0" text-anchor="middle" dominant-baseline="middle" fill="#7aa3b8" font-family="Arial, sans-serif" font-size="11">CF04</text>
+  <rect x="210.0" y="67.0" width="130.8" height="204.0" fill="#d4ebf8" stroke="#8c6239" stroke-width="9.4"/>
+  <text x="275.4" y="169.0" text-anchor="middle" dominant-baseline="middle" fill="#7aa3b8" font-family="Arial, sans-serif" font-size="11">CF04</text>
+  <path d="M130.6 169.0 H158.6 M151.6 164.0 L158.6 169.0 L151.6 174.0" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M289.4 169.0 H261.4 M268.4 164.0 L261.4 169.0 L268.4 174.0" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
