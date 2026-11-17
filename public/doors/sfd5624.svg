@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f7f7f7"/>
+  <line x1="62.0" y1="122.85714285714286" x2="338.0" y2="122.85714285714286" stroke="#2f6fbe" stroke-width="1.2"/>
+  <line x1="62.0" y1="117.9" x2="62.0" y2="127.9" stroke="#2f6fbe" stroke-width="1.2"/>
+  <line x1="338.0" y1="117.9" x2="338.0" y2="127.9" stroke="#2f6fbe" stroke-width="1.2"/>
+  <text x="200.0" y="116.9" text-anchor="middle" fill="#2f6fbe" font-family="Arial, sans-serif" font-size="14">5600</text>
+  <line x1="40" y1="140.9" x2="40" y2="259.1" stroke="#2f6fbe" stroke-width="1.2"/>
+  <text x="34.0" y="200.0" text-anchor="middle" dominant-baseline="middle" fill="#2f6fbe" font-family="Arial, sans-serif" font-size="14" transform="rotate(-90 34.0 200.0)">2400</text>
+  <rect x="62.0" y="140.9" width="276.0" height="118.3" fill="#8c6239"/>
+  <line x1="62.0" y1="140.9" x2="78.0" y2="156.9" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="338.0" y1="140.9" x2="322.0" y2="156.9" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="62.0" y1="259.1" x2="78.0" y2="243.1" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="338.0" y1="259.1" x2="322.0" y2="243.1" stroke="#6d4b2a" stroke-width="1"/>
+  <rect x="78.0" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="102.4" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="126.8" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="151.2" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="175.6" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="200.0" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="224.4" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="248.8" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="273.2" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="297.6" y="156.9" width="24.4" height="86.3" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <path d="M78.0 156.9 L102.4 200.0 L78.0 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M102.4 156.9 L126.8 200.0 L102.4 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M126.8 156.9 L151.2 200.0 L126.8 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M151.2 156.9 L175.6 200.0 L151.2 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M175.6 156.9 L200.0 200.0 L175.6 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M224.4 156.9 L200.0 200.0 L224.4 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M248.8 156.9 L224.4 200.0 L248.8 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M273.2 156.9 L248.8 200.0 L273.2 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M297.6 156.9 L273.2 200.0 L297.6 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <path d="M322.0 156.9 L297.6 200.0 L322.0 243.1" fill="none" stroke="#c4473a" stroke-width="1.6" stroke-dasharray="7 5"/>
+</svg>
