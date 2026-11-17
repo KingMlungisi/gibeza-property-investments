@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f7f7f7"/>
+  <line x1="62.0" y1="164.75" x2="338.0" y2="164.75" stroke="#2f6fbe" stroke-width="1.2"/>
+  <line x1="62.0" y1="159.8" x2="62.0" y2="169.8" stroke="#2f6fbe" stroke-width="1.2"/>
+  <line x1="338.0" y1="159.8" x2="338.0" y2="169.8" stroke="#2f6fbe" stroke-width="1.2"/>
+  <text x="200.0" y="158.8" text-anchor="middle" fill="#2f6fbe" font-family="Arial, sans-serif" font-size="14">2400</text>
+  <line x1="40" y1="182.8" x2="40" y2="217.3" stroke="#2f6fbe" stroke-width="1.2"/>
+  <text x="34.0" y="200.0" text-anchor="middle" dominant-baseline="middle" fill="#2f6fbe" font-family="Arial, sans-serif" font-size="14" transform="rotate(-90 34.0 200.0)">300</text>
+  <rect x="62.0" y="182.8" width="276.0" height="34.5" fill="#8c6239"/>
+  <line x1="62.0" y1="182.8" x2="78.0" y2="198.8" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="338.0" y1="182.8" x2="322.0" y2="198.8" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="62.0" y1="217.3" x2="78.0" y2="201.3" stroke="#6d4b2a" stroke-width="1"/>
+  <line x1="338.0" y1="217.3" x2="322.0" y2="201.3" stroke="#6d4b2a" stroke-width="1"/>
+  <rect x="78.0" y="198.8" width="122.0" height="2.5" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  <rect x="200.0" y="198.8" width="122.0" height="2.5" fill="#d4ebf8" stroke="#8c6239" stroke-width="8.8"/>
+  
+</svg>
